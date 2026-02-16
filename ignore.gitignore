@@ -1,0 +1,13 @@
+# Ignorar datos pesados
+*.csv
+*.xlsx
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignorar entornos virtuales (si creaste uno dentro)
+env/
+venv/
+.env

@@ -1,0 +1,13 @@
+jupyter
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+ccxt
+statsmodels
+scikit-learn
+joblib
+torch
+alpaca-trade-api
+python-dotenv
